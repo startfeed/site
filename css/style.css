@@ -43,6 +43,12 @@ body {
   padding-bottom: 5px;
 }
 
+
+.logocss{
+    position: absolute;
+}
+
+
 /*header section*/
 .hero_area {
   height: 94vh;
